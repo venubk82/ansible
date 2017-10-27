@@ -1,0 +1,6 @@
+---
+- hosts: client
+  user: test
+  become: yes
+  roles:
+    - foo
