@@ -1,3 +1,5 @@
+Execution method:
+
 [test@puppetmaster ~]$ ansible-pull -d /home/test/roles -U git@github.com:venubk82/ansible.git >> test.log
 
 SSH password:
