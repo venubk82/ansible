@@ -8,7 +8,7 @@
   notify:
     - blippy
 
-- name: demo that parameterized roles work
-  shell: echo just FYI, param1={{ param1 }}, param2 ={{ param2 }}
+#- name: demo that parameterized roles work
+#  shell: echo just FYI, param1={{ param1 }}, param2 ={{ param2 }}
 
 
